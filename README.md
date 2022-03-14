@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Corazza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcscorazza)](https://github.com/mcscorazza/github-readme-stats)
+[![Corazza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcscorazza&show_icons=true&theme=dracula)](https://github.com/mcscorazza/github-readme-stats)
 
 
 <!--
